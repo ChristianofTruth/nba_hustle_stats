@@ -1,4 +1,4 @@
-# nba_hustle_stats
+# The importance of hustle in the NBA
 Many NBA coaches, players, media members, and fans like to claim that the teams who hustle and “want it more” are the teams that win games. The question is then “What exactly is hustle? And can we statistically measure its impact on winning basketball games?”
 
 Luckily, nba.com has provided multiple statistics that they define as hustle plays, and they fall in line with what many basketball heads think of when they hear the word “hustle”. Before, these stats were never measured and so were considered thankless “dirty work” that helped a team win. Now as a data analyst, there is currently 3+ years of data I can use to determine how important hustle is when it comes to winning basketball games.
